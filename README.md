@@ -3,7 +3,8 @@
 I designed and made a container for the circuit in IA2 using 3D printing. 
 
 ##Model
-I measured the size of my circuit and designed the 3D model in Tinkercad. Besides, I measured and designed the mounting points for each part of my circuit. 
+I measured the size of my circuit and designed the 3D model in Tinkercad. Besides, I measured and designed the mounting points for each part of my circuit.
+
 ![][model]
 
 ##Results
