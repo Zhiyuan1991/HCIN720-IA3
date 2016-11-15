@@ -7,7 +7,7 @@ I design and make a 3D container for the circuit in IA2.
 ![][back]
 ![][inside]
 
-[model]:https://github.com/Zhiyuan1991/HCIN720-IA3/raw/master/images/model.JPG
+[model]:https://github.com/Zhiyuan1991/HCIN720-IA3/raw/master/images/model.png
 [top]:https://github.com/Zhiyuan1991/HCIN720-IA3/raw/master/images/top.JPG
 [front]:https://github.com/Zhiyuan1991/HCIN720-IA3/raw/master/images/front.JPG
 [back]:https://github.com/Zhiyuan1991/HCIN720-IA3/raw/master/images/back.JPG
